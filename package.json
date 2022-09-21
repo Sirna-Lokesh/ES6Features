@@ -1,0 +1,21 @@
+{
+  "name": "js-training",
+  "version": "0.9.1",
+  "description": "JS training tasks",
+  "scripts": {
+    "test": "karma start",
+    "test-debug": "./node_modules/.bin/mocha --debug-brk"
+  },
+  "author": "aorgish",
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "^6.4.0",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-jasmine": "^5.1.0",
+    "mocha": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rolling-scopes-school/js-assignments.git"
+  }
+}
