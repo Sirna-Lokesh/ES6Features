@@ -54,7 +54,7 @@ function getRegexForGuid() {
  *
  */
 function getRegexForPitSpot() {
-   return new RegExp('^(pi|s|r)');
+   return new RegExp('^(pi|s|re)');
 }
 
 
